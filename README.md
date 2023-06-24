@@ -1,6 +1,6 @@
 # Proyecto de Colección de NFTs con Funcionalidad de Interoperabilidad entre Cadenas
 
-¡Bienvenidos a mi último proyecto! Se trata de una colección de NFTs diseñada especialmente para nuestra comunidad. Hemos elegido la popular red Polygon (Mumbai) como blockchain principal para esta iniciativa. Con el objetivo de atender a nuestros usuarios que poseen fondos en la red Ethereum (Goerli), hemos implementado una funcionalidad de interoperabilidad entre cadenas. Esto significa que los usuarios pueden realizar compras en la red Ethereum y luego tener sus NFTs acuñados en Polygon a través de un proceso fluido.
+¡Bienvenidos a mi último proyecto! Se trata de una colección de NFTs. Hemos elegido la popular red Polygon (Mumbai) como blockchain principal para esta iniciativa. Con el objetivo de atender a nuestros usuarios que poseen fondos en la red Ethereum (Goerli), hemos implementado una funcionalidad de interoperabilidad entre cadenas. Esto significa que los usuarios pueden realizar compras en la red Ethereum y luego tener sus NFTs acuñados en Polygon a través de un proceso fluido.
 
 ## Funcionalidades principales
 
